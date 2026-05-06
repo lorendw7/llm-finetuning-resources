@@ -1,0 +1,290 @@
+[
+  {
+    "prompt": "On a rainy afternoon in a comic book library, Leo, aged 30, works as a game writer. Leo designs mystery quests based on forgotten city rumors.",
+    "expected_response": {
+      "name": "Leo",
+      "age": "30",
+      "job": "game writer"
+    }
+  },
+  {
+    "prompt": "Inside a solar-powered boat workshop, Naomi, currently 44 years old, earns a living as a renewable energy technician. Naomi enjoys building tiny wind turbines from scrap metal.",
+    "expected_response": {
+      "name": "Naomi",
+      "age": "44",
+      "job": "renewable energy technician"
+    }
+  },
+  {
+    "prompt": "At a crowded train station, aged 37, works as a logistics planner. The person relaxes by drawing fantasy maps of imaginary subway lines.",
+    "expected_response": {
+      "name": "",
+      "age": "37",
+      "job": "logistics planner"
+    }
+  },
+  {
+    "prompt": "In a room full of antique clocks, Ravi repairs mechanical watches for a living. Ravi also writes short stories about time travelers.",
+    "expected_response": {
+      "name": "Ravi",
+      "age": "",
+      "job": "mechanical watch repairer"
+    }
+  },
+  {
+    "prompt": "Beside a quiet river, Lin, now 28, spends weekends photographing birds and teaching local children how to identify them.",
+    "expected_response": {
+      "name": "Lin",
+      "age": "28",
+      "job": ""
+    }
+  },
+  {
+    "prompt": "In a neon-lit arcade, Maya, age 26, works as a sound designer. Maya records unusual city noises to use in indie games.",
+    "expected_response": {
+      "name": "Maya",
+      "age": "26",
+      "job": "sound designer"
+    }
+  },
+  {
+    "prompt": "At the back of a small bakery, Omar, 52 years old, is a pastry chef. Omar experiments with desserts inspired by old family letters.",
+    "expected_response": {
+      "name": "Omar",
+      "age": "52",
+      "job": "pastry chef"
+    }
+  },
+  {
+    "prompt": "During a late-night astronomy club meeting, Elena works as an astrophysics lecturer. Elena is 41 and enjoys naming homemade telescopes.",
+    "expected_response": {
+      "name": "Elena",
+      "age": "41",
+      "job": "astrophysics lecturer"
+    }
+  },
+  {
+    "prompt": "In a basement pottery studio, aged 33, works as a ceramic artist. The person collects blue stones from mountain trails.",
+    "expected_response": {
+      "name": "",
+      "age": "33",
+      "job": "ceramic artist"
+    }
+  },
+  {
+    "prompt": "At a seaside weather station, Hugo monitors storms for a living. Hugo keeps a notebook filled with sketches of unusual clouds.",
+    "expected_response": {
+      "name": "Hugo",
+      "age": "",
+      "job": "storm monitor"
+    }
+  },
+  {
+    "prompt": "Inside a greenhouse filled with orchids, Priya, now 39, studies plant diseases and volunteers at a community garden.",
+    "expected_response": {
+      "name": "Priya",
+      "age": "39",
+      "job": ""
+    }
+  },
+  {
+    "prompt": "In a quiet museum archive, Daniel, aged 47, works as a historical document conservator. Daniel enjoys decoding faded handwritten notes.",
+    "expected_response": {
+      "name": "Daniel",
+      "age": "47",
+      "job": "historical document conservator"
+    }
+  },
+  {
+    "prompt": "At a mountain rescue center, Sofia, currently 35 years old, earns a living as a rescue coordinator. Sofia trains dogs to follow scent trails.",
+    "expected_response": {
+      "name": "Sofia",
+      "age": "35",
+      "job": "rescue coordinator"
+    }
+  },
+  {
+    "prompt": "In a busy hospital cafeteria, the person is 29 and works as a nutrition assistant. During breaks, the person writes reviews of local soup recipes.",
+    "expected_response": {
+      "name": "",
+      "age": "29",
+      "job": "nutrition assistant"
+    }
+  },
+  {
+    "prompt": "Under the glass roof of a public market, Felix sells handmade paper lanterns for a living. Felix also studies old festival traditions.",
+    "expected_response": {
+      "name": "Felix",
+      "age": "",
+      "job": "paper lantern seller"
+    }
+  },
+  {
+    "prompt": "In a robotics classroom, Aiko, now 31, teaches students how to build simple machines from recycled electronics.",
+    "expected_response": {
+      "name": "Aiko",
+      "age": "31",
+      "job": ""
+    }
+  },
+  {
+    "prompt": "At a snowy research cabin, Ethan, age 58, works as a wildlife biologist. Ethan tracks fox footprints before sunrise.",
+    "expected_response": {
+      "name": "Ethan",
+      "age": "58",
+      "job": "wildlife biologist"
+    }
+  },
+  {
+    "prompt": "Inside a city planning office, Grace is 46 years old and works as an urban planner. Grace designs pocket parks for crowded neighborhoods.",
+    "expected_response": {
+      "name": "Grace",
+      "age": "46",
+      "job": "urban planner"
+    }
+  },
+  {
+    "prompt": "At an underground music venue, aged 24, works as a lighting technician. The person collects broken guitar pedals.",
+    "expected_response": {
+      "name": "",
+      "age": "24",
+      "job": "lighting technician"
+    }
+  },
+  {
+    "prompt": "In a floating library boat, Mateo catalogs rare books for a living. Mateo enjoys translating poems about rivers.",
+    "expected_response": {
+      "name": "Mateo",
+      "age": "",
+      "job": "rare book cataloger"
+    }
+  },
+  {
+    "prompt": "Beside an old lighthouse, Nora, currently 62, paints coastal landscapes and teaches visitors about local shipwreck stories.",
+    "expected_response": {
+      "name": "Nora",
+      "age": "62",
+      "job": ""
+    }
+  },
+  {
+    "prompt": "At a virtual reality studio, Iris, aged 34, works as a user experience researcher. Iris studies how players solve puzzles in simulated cities.",
+    "expected_response": {
+      "name": "Iris",
+      "age": "34",
+      "job": "user experience researcher"
+    }
+  },
+  {
+    "prompt": "In a desert seed bank, Amir, 40 years old, earns a living as a seed preservation specialist. Amir labels every jar with tiny hand-drawn symbols.",
+    "expected_response": {
+      "name": "Amir",
+      "age": "40",
+      "job": "seed preservation specialist"
+    }
+  },
+  {
+    "prompt": "At a neighborhood repair café, the person, now 55, works as an electronics repair mentor. The person teaches others how to fix old radios.",
+    "expected_response": {
+      "name": "",
+      "age": "55",
+      "job": "electronics repair mentor"
+    }
+  },
+  {
+    "prompt": "In a theater costume room, Beatrice makes historical costumes for a living. Beatrice collects buttons from flea markets.",
+    "expected_response": {
+      "name": "Beatrice",
+      "age": "",
+      "job": "historical costume maker"
+    }
+  },
+  {
+    "prompt": "Inside a quiet tea house, Kenji, age 48, studies traditional brewing methods and writes notes about regional tea leaves.",
+    "expected_response": {
+      "name": "Kenji",
+      "age": "48",
+      "job": ""
+    }
+  },
+  {
+    "prompt": "At a polar expedition training center, Clara, aged 36, works as a survival instructor. Clara teaches teams how to build emergency snow shelters.",
+    "expected_response": {
+      "name": "Clara",
+      "age": "36",
+      "job": "survival instructor"
+    }
+  },
+  {
+    "prompt": "In a small animation studio, Noah is 27 years old and works as a storyboard artist. Noah sketches silent scenes about wandering robots.",
+    "expected_response": {
+      "name": "Noah",
+      "age": "27",
+      "job": "storyboard artist"
+    }
+  },
+  {
+    "prompt": "During a village lantern festival, aged 43, works as an event safety inspector. The person enjoys photographing reflections in puddles.",
+    "expected_response": {
+      "name": "",
+      "age": "43",
+      "job": "event safety inspector"
+    }
+  },
+  {
+    "prompt": "At an old radio observatory, Talia analyzes signal patterns for a living. Talia also builds miniature models of satellites.",
+    "expected_response": {
+      "name": "Talia",
+      "age": "",
+      "job": "signal pattern analyst"
+    }
+  },
+  {
+    "prompt": "Near a mountain hot spring, Victor, now 50, writes travel essays and interviews local inn owners.",
+    "expected_response": {
+      "name": "Victor",
+      "age": "50",
+      "job": ""
+    }
+  },
+  {
+    "prompt": "Inside a marine animal clinic, Hannah, currently 32 years old, works as a veterinary nurse. Hannah helps injured seals recover before release.",
+    "expected_response": {
+      "name": "Hannah",
+      "age": "32",
+      "job": "veterinary nurse"
+    }
+  },
+  {
+    "prompt": "At a bamboo bicycle workshop, Diego, age 38, earns a living as a bicycle frame builder. Diego tests every frame on steep city streets.",
+    "expected_response": {
+      "name": "Diego",
+      "age": "38",
+      "job": "bicycle frame builder"
+    }
+  },
+  {
+    "prompt": "In a children's science museum, the person is 45 and works as an exhibit designer. The person creates interactive displays about electricity.",
+    "expected_response": {
+      "name": "",
+      "age": "45",
+      "job": "exhibit designer"
+    }
+  },
+  {
+    "prompt": "At a rooftop apiary, Celeste keeps honeybees for a living. Celeste paints each hive with a different constellation.",
+    "expected_response": {
+      "name": "Celeste",
+      "age": "",
+      "job": "beekeeper"
+    }
+  },
+  {
+    "prompt": "Beside a frozen lake, Mikhail, aged 53, carves wooden animals and teaches children how to recognize animal tracks.",
+    "expected_response": {
+      "name": "Mikhail",
+      "age": "53",
+      "job": ""
+    }
+  }
+]

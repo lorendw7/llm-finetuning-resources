@@ -1,0 +1,162 @@
+[
+  {
+    "prompt": "At midnight in a glass-walled data center, Mira, aged 29, works as a cybersecurity analyst. Outside of work, Mira designs puzzle rooms for friends.",
+    "response": {
+      "name": "Mira",
+      "age": "29",
+      "job": "cybersecurity analyst"
+    }
+  },
+  {
+    "prompt": "During a power outage at a tiny mountain observatory, Kenji, currently 41 years old, earns a living as an astronomer. Kenji also keeps a notebook of fictional planets.",
+    "response": {
+      "name": "Kenji",
+      "age": "41",
+      "job": "astronomer"
+    }
+  },
+  {
+    "prompt": "Inside a floating greenhouse, Amara, a 34-year-old, works as a botanist. In spare moments, Amara teaches neighbors how to grow herbs in recycled jars.",
+    "response": {
+      "name": "Amara",
+      "age": "34",
+      "job": "botanist"
+    }
+  },
+  {
+    "prompt": "On the roof of an old theater, Felix, now 52, has been employed as a sound engineer. Felix spends weekends recording the sounds of rain, trains, and city birds.",
+    "response": {
+      "name": "Felix",
+      "age": "52",
+      "job": "sound engineer"
+    }
+  },
+  {
+    "prompt": "In a quiet archive under the city hall, Liora, aged 63, works as a historian. Liora is known for restoring forgotten maps by hand.",
+    "response": {
+      "name": "Liora",
+      "age": "63",
+      "job": "historian"
+    }
+  },
+  {
+    "prompt": "At a busy night market, Mateo, currently 27 years old, makes a living as a food safety inspector. Mateo secretly writes reviews of the best street snacks in town.",
+    "response": {
+      "name": "Mateo",
+      "age": "27",
+      "job": "food safety inspector"
+    }
+  },
+  {
+    "prompt": "Beside a frozen lake, Niko, a 45-year-old, works as a climate researcher. Niko spends free evenings building tiny weather stations from spare parts.",
+    "response": {
+      "name": "Niko",
+      "age": "45",
+      "job": "climate researcher"
+    }
+  },
+  {
+    "prompt": "In a bookstore that also repairs bicycles, Sora, now 31, earns a living as a mechanical designer. Sora enjoys creating miniature machines that turn book pages automatically.",
+    "response": {
+      "name": "Sora",
+      "age": "31",
+      "job": "mechanical designer"
+    }
+  },
+  {
+    "prompt": "During a rehearsal in an abandoned train station, Imani, aged 38, works as a choreographer. Imani often turns ordinary commuter gestures into dance movements.",
+    "response": {
+      "name": "Imani",
+      "age": "38",
+      "job": "choreographer"
+    }
+  },
+  {
+    "prompt": "At the entrance of a virtual reality museum, Orion, currently 24 years old, has been employed as an experience designer. Orion collects old arcade tokens as inspiration.",
+    "response": {
+      "name": "Orion",
+      "age": "24",
+      "job": "experience designer"
+    }
+  },
+  {
+    "prompt": "Under the bright lights of a robotics lab, Priya, aged 36, works as a robotics engineer. Priya builds tiny robots that can sort seashells by shape.",
+    "response": {
+      "name": "Priya",
+      "age": "36",
+      "job": "robotics engineer"
+    }
+  },
+  {
+    "prompt": "In a coastal radio tower, Elias, now 58, earns a living as an emergency communications operator. Elias enjoys decoding old maritime signal books.",
+    "response": {
+      "name": "Elias",
+      "age": "58",
+      "job": "emergency communications operator"
+    }
+  },
+  {
+    "prompt": "At a tiny bakery beside a science museum, Hana, a 22-year-old, works as a pastry chef. Hana creates desserts shaped like planets, fossils, and molecules.",
+    "response": {
+      "name": "Hana",
+      "age": "22",
+      "job": "pastry chef"
+    }
+  },
+  {
+    "prompt": "During a thunderstorm in a rural clinic, Tomas, currently 47 years old, works as a nurse practitioner. Tomas keeps a collection of handwritten patient thank-you notes.",
+    "response": {
+      "name": "Tomas",
+      "age": "47",
+      "job": "nurse practitioner"
+    }
+  },
+  {
+    "prompt": "Inside a mobile library bus, Anika, aged 55, has been employed as a literacy coordinator. Anika helps children create comic books about local legends.",
+    "response": {
+      "name": "Anika",
+      "age": "55",
+      "job": "literacy coordinator"
+    }
+  },
+  {
+    "prompt": "At the edge of a foggy harbor, aged 40, works as a marine safety officer. The person spends weekends sketching unusual lighthouse designs.",
+    "response": {
+      "name": "",
+      "age": "40",
+      "job": "marine safety officer"
+    }
+  },
+  {
+    "prompt": "Inside a tiny repair shop, Jun fixes antique cameras for a living. Jun also collects postcards from towns with unusual names.",
+    "response": {
+      "name": "Jun",
+      "age": "",
+      "job": "camera repair specialist"
+    }
+  },
+  {
+    "prompt": "In a silent planetarium after closing time, Celeste, currently 33 years old, enjoys writing fictional star maps for children.",
+    "response": {
+      "name": "Celeste",
+      "age": "33",
+      "job": ""
+    }
+  },
+  {
+    "prompt": "During a lantern festival, a 26-year-old works as an urban beekeeper. In spare time, the person paints tiny signs for each beehive.",
+    "response": {
+      "name": "",
+      "age": "26",
+      "job": "urban beekeeper"
+    }
+  },
+  {
+    "prompt": "At an underground music archive, Rowan spends evenings cataloging old concert recordings and repairing scratched vinyl records.",
+    "response": {
+      "name": "Rowan",
+      "age": "",
+      "job": ""
+    }
+  }
+]
