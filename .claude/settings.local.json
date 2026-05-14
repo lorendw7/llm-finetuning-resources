@@ -1,0 +1,7 @@
+{
+  "permissions": {
+    "allow": [
+      "PowerShell(Get-ChildItem -Path \"D:\\\\CS\\\\Code\\\\llm-finetuning-resources\" -Recurse | ForEach-Object { $_.FullName })"
+    ]
+  }
+}
